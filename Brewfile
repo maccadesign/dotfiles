@@ -46,10 +46,9 @@ brew 'yarn'
 
 # Apps
 cask '1password'
-cask 'caffeine'
-cask 'dbngin'
 cask 'discord'
 cask 'docker'
+cask 'dropbox'
 cask 'figma'
 cask 'firefox'
 cask 'github'
@@ -57,27 +56,30 @@ cask 'google-chrome'
 cask 'helo'
 cask 'imageoptim'
 cask 'insomnia'
-cask 'pastebot'
+cask 'notion'
 cask 'phpmon'
+cask 'private-internet-access'
 cask 'ray'
-cask 'readdle-spark'
-cask 'screenflow'
+cask 'raycast'
 cask 'slack'
-cask 'tableplus'
-cask 'the-unarchiver'
+cask 'setapp'
+cask 'skype'
+cask 'sonos'
+cask 'spotify'
+cask 'steam'
 cask 'tinkerwell'
 cask 'transmit'
-cask 'tunnelbear'
-cask 'tuple'
 cask 'visual-studio-code'
+cask 'warp'
+cask 'whatsapp'
 cask 'zoom'
-cask 'zwift'
 
 # Quicklook
 cask 'qlmarkdown'
 cask 'quicklook-json'
 
 # Fonts
+cask 'font-inter'
 cask 'font-lato'
 cask 'font-open-sans'
 cask 'font-roboto'
@@ -87,10 +89,10 @@ cask 'font-source-sans-pro'
 cask 'font-source-serif-pro'
 
 # Mac App Store
-mas 'Byword', id: 420212497
-mas 'Giphy Capture', id: 668208984
 mas 'Keynote', id: 409183694
 mas 'Numbers', id: 409203825
-mas 'Speedtest', id: 1153157709
-mas 'Spring', id: 1508706541
-mas 'Things', id: 904280696
+mas 'Trello', id: 1278508951
+mas 'Twitter', id: 1482454543
+mas 'Todoist', id: 585829637
+mas 'Transporter', id: 1450874784
+mas 'LittleIpsum', id: 405772121

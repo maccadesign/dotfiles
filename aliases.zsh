@@ -12,8 +12,7 @@ alias version="commit 'version'"
 # Directories
 alias dotfiles="cd $DOTFILES"
 alias library="cd $HOME/Library"
-alias sites="cd $HOME/Sites"
-alias lara="sites && cd laravel/"
+alias projects="cd $HOME/Projects"
 alias docs="lara && cd docs/"
 
 # Laravel

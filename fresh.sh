@@ -41,6 +41,8 @@ $HOME/.composer/vendor/bin/valet install
 # Install Global Ray
 $HOME/.composer/vendor/bin/global-ray install
 
+npm -g install @aws-amplify/cli eas-cli expo-cli fast-cli puppeteer
+
 # Create a Sites directory
 mkdir $HOME/Sites
 
